@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://www.borneo338.sparkjava.com/sitemap.xml
+Sitemap: http://www.borneo338.sinonjs.org/sitemap.xml

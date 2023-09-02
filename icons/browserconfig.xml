@@ -2,10 +2,10 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square70x70logo src="https://icons.amin.id/borneo338/mstile-70x70.png"/>
-            <square150x150logo src="https://icons.amin.id/borneo338/mstile-150x150.png"/>
-            <square310x310logo src="https://icons.amin.id/borneo338/mstile-310x310.png"/>
-            <wide310x150logo src="https://icons.amin.id/borneo338/mstile-310x150.png"/>
+            <square70x70logo src="https://www.borneo338.sinonjs.org/icons/mstile-70x70.png"/>
+            <square150x150logo src="https://www.borneo338.sinonjs.org/icons/mstile-150x150.png"/>
+            <square310x310logo src="https://www.borneo338.sinonjs.org/icons/mstile-310x310.png"/>
+            <wide310x150logo src="https://www.borneo338.sinonjs.org/icons/mstile-310x150.png"/>
             <TileColor>#181834</TileColor>
         </tile>
     </msapplication>
